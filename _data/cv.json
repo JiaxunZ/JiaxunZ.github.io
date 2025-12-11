@@ -1,152 +1,155 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jiaxun Zhang",
+    "email": "jiaxunz2@illinois.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://JiaxunZ.github.io",
+    "summary": "Undergraduate student at UIUC studying Statistics & Computer Science with research interests in LLM/VLM Reasoning, Multi-agent Systems, and AI Safety.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Urbana-Champaign",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=91GRbqkAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "jiaxun-zhang-337848270",
+        "url": "https://www.linkedin.com/in/jiaxun-zhang-337848270/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "JiaxunZ",
+        "url": "https://github.com/JiaxunZ"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "B.S. in Statistics & Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "endDate": "2026 (Expected)",
+      "gpa": "3.94/4.00",
+      "courses": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Deep Learning for Computer Vision",
+        "Data Mining",
+        "Machine Learning Systems",
+        "Algorithms",
+        "Numeric Methods",
+        "Statistical Modeling",
+        "Applied Bayesian Analysis",
+        "Statistics and Probability",
+        "Linear Algebra"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fiddler Innovation Undergraduate Student Fellowship Award",
+      "date": "2025",
+      "awarder": "UIUC",
+      "summary": ""
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "title": "Dean's List",
+      "date": "Fall 2022, Spring 2023, Spring 2024, Spring 2025",
+      "awarder": "UIUC",
+      "summary": ""
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "LLM/VLM Reasoning"
+    },
+    {
+      "name": "Multi-agent Systems"
+    },
+    {
+      "name": "Reinforcement Learning"
+    },
+    {
+      "name": "LLM Agent Safety and Robustness"
+    },
+    {
+      "name": "AI for Science"
+    },
+    {
+      "name": "AI for Healthcare and Mental Health"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Reinforcing Agentic Medical Vision-Language Reasoner",
+      "publisher": "Under Review at ARR",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "X Cao*, Jiaxun Zhang*, B Li*, Q He*, J Chen, Z Chen, H Xu, J Cao, JM Rehg"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination",
+      "publisher": "Under Review at CVPR 2026",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "X Li*, A Juvekar*, Jiaxun Zhang, X Liu, M Wahed, K Nguyen, Y Shen, T Yu, I Lourentzou"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Where LLM Agents Fail and How They Can Learn from Failures",
+      "publisher": "Under Review at ICLR 2026",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "K Zhu*, Z Liu*, B Li*, M Tian*, Y Yang*, Jiaxun Zhang, P Han, Q Xie, F Cui, W Zhang, X Ma, X Yu, G Ramesh, Y Su, J Wu, Z Liu, P Lu, J Zou, J You"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Mental Health Impacts of AI Companions: Triangulating Social Media Quasi-Experiments, User Perspectives, and a Relational Lens",
+      "publisher": "Under Review at ACM CHI 2026",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Y Yuan, Jiaxun Zhang, T Aledavood, R Zhang, K Saha"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "TinyScientist: An Interactive, Extensible, and Controllable Framework for Building Research Agents",
+      "publisher": "EMNLP 2025 (System Demonstrations)",
+      "releaseDate": "2025-11",
+      "website": "",
+      "summary": "H Yu*, K Xuan*, F Li*, K Zhu, Z Lei, Jiaxun Zhang, Z Qi, K Richardson, J You"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM",
+      "publisher": "EMNLP 2025 (Main Conference, Oral Recommendation)",
+      "releaseDate": "2025-11",
+      "website": "",
+      "summary": "Jiaxun Zhang*, K Zhu*, Z Qi*, N Shang, Z Liu, P Han, Y Su, H Yu, J You"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Advancing Medical Radiograph Representation Learning: A Hybrid Pre-training Paradigm with Multilevel Semantic Granularity",
+      "publisher": "ECCV 2024 Workshop",
+      "releaseDate": "2024-10",
+      "website": "",
+      "summary": "H Jiang, X Hao, Y Huang, C Ma, Jiaxun Zhang, R Zhang"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "CS 124",
+      "institution": "University of Illinois at Urbana-Champaign, Computer Science Department",
+      "date": "2024",
+      "role": "Course Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
