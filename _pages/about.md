@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jiaxun Zhang, a undergraduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by [Prof. Ismini Lourentzou](https://isminoula.github.io), [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/), and [Prof. Koustuv Saha](https://koustuv.com).
+Hi! I'm Jiaxun Zhang, an undergraduate student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by [Prof. Ismini Lourentzou](https://isminoula.github.io), [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/), and [Prof. Koustuv Saha](https://koustuv.com).
 <!--
 My CV is available [here](/files/Jiaxun%20Zhang.pdf).
 -->
