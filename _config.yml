@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Statistics & Computer Science @ UIUC"
   location         : "Urbana-Champaign, IL"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         :
   uri              : # URL
   email            : "jiaxunz2@illinois.edu" 
 
@@ -224,8 +224,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   portfolio:
     output: true
     permalink: /:collection/:path/

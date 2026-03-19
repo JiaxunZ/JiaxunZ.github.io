@@ -3,15 +3,9 @@ title: "Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-G
 collection: publications
 category: conferences
 permalink: /publication/2025-01-02-counterfactual-segmentation
-excerpt: 'A method for diagnosing and mitigating pixel-grounding hallucination in vision-language models through counterfactual reasoning.'
 date: 2025-01-02
-venue: 'Under Review at CVPR 2026'
-citation: 'X Li*, A Juvekar*, <b>Jiaxun Zhang</b>, X Liu, M Wahed, K Nguyen, Y Shen, T Yu, I Lourentzou. "Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination." <i>Under Review at CVPR 2026</i>.'
+venue: 'CVPR 2026 Findings'
+paperurl: 'https://arxiv.org/pdf/2506.21546'
+image: 'publications/counterfactual-segmentation.png'
+citation: 'Xinzhuo Li*, Adheesh Juvekar*, <b>Jiaxun Zhang</b>, Xingyou Liu, Muntasir Wahed, Kiet A. Nguyen, Yifan Shen, Tianjiao Yu, Ismini Lourentzou. CVPR 2026 Findings.'
 ---
-
-**Authors:** X Li\*, A Juvekar\*, **Jiaxun Zhang**, X Liu, M Wahed, K Nguyen, Y Shen, T Yu, I Lourentzou
-
-*"\*" indicates equal contribution*
-
-This paper introduces counterfactual segmentation reasoning as a method for diagnosing and mitigating pixel-grounding hallucination in vision-language models.
-

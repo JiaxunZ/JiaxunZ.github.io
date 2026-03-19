@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="pub-card">
+  {% if post.image %}
+  <div class="pub-card__image">
+    {% if post.venue %}<span class="pub-card__badge">{{ post.venue }}</span>{% endif %}
+    <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }}">
+  </div>
+  {% endif %}
+  <div class="pub-card__content{% unless post.image %} pub-card__content--full{% endunless %}">
+    {% unless post.image %}{% if post.venue %}<span class="pub-card__tag">{{ post.venue }}</span>{% endif %}{% endunless %}
+    <div class="pub-card__title">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ title }}</a>
+      {% elsif post.link %}
+        <a href="{{ post.link }}" target="_blank" rel="noopener">{{ title }}</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </div>
+    {% if post.citation %}
+      <p class="pub-card__citation">{{ post.citation }}</p>
+    {% endif %}
+  </div>
+</div>
