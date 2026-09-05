@@ -38,9 +38,11 @@ Hi! I'm Jiaxun Zhang, a first-year PhD student in Computer Science and Engineeri
 
 ## 🎓 Education
 
-- B.S. in Statistics & Computer Science, University of Illinois at Urbana-Champaign, 2022–present
+- Ph.D. in Computer Science and Engineering, University of California, San Diego, 2026–present
+- B.S. in Statistics & Computer Science, University of Illinois at Urbana-Champaign, 2022–2026
 
 ## Awards
 
-- Fiddler Innovation Undergraduate Student Fellowship Award, UIUC, 2025
+- Jacobs School of Engineering Fellowship, UCSD, 2026
+- Fiddler Innovation Undergraduate Student Fellowship, UIUC, 2025
 - Dean's List — Fall 2022, Spring 2023, Spring 2024, Spring 2025

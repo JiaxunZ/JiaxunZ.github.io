@@ -21,6 +21,7 @@ GPA: 3.94/4.00
 
 ## Awards & Honors
 
+- **Jacobs School of Engineering Fellowship**, UCSD, 2026
 - **Fiddler Innovation Undergraduate Student Fellowship Award**, UIUC, 2025
 - **Dean's List** — Fall 2022, Spring 2023, Spring 2024, Spring 2025
 
